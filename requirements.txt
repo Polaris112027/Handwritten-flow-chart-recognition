@@ -1,0 +1,9 @@
+easyocr==1.7.1
+matplotlib==3.8.2
+numpy==1.26.2
+opencv_python==4.8.1.78
+Pillow==10.1.0
+Pillow==10.1.0
+transformers==4.36.2
+pytesseract=0.3.10
+packaging=23.2
